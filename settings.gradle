@@ -1,0 +1,2 @@
+rootProject.name='Finch'
+include ':app'
